@@ -2,7 +2,7 @@
 ###
 #
 # Author: lutherus
-# Laste moded:28.03.2020; 16:18
+# Last moded:28.03.2020; 16:18
 # License: it is a config file. Do what ever you weant but do not blame
 # me if it dosnt work
 #
