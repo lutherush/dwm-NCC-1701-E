@@ -13,9 +13,9 @@ In order to build dwm you need the Xlib header files.
 
 # Installation
 
-make
+    make
 
-make install
+    make install
 # Running dwm
 
 Add the following line to your .xinitrc to start dwm using startx:
